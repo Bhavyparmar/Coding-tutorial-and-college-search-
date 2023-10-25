@@ -1,0 +1,19 @@
+.heading{
+    margin-top: 15vh;
+}
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+@media screen and (max-width: 320px) {
+    .hide { display: none; }
+}
+.table { width: 100%; }
